@@ -1,2 +1,2 @@
-# Mod 1
+hello-world
 My first mod
