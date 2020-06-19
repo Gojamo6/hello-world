@@ -1,2 +1,2 @@
 hello-world
-My first mod
+My first repository
